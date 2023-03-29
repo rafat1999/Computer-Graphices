@@ -1,3 +1,7 @@
+/// S.H. Rafat
+/// Bangladesh Army University of Science and Technology(BAUST)
+/// Dept of CSE
+
 #include<iostream>
 #include<graphics.h>
 #include<math.h>
