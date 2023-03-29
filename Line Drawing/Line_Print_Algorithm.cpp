@@ -1,3 +1,7 @@
+/// S.H. Rafat
+/// Bangladesh Army University of Science and Technology(BAUST)
+/// Dept of CSE
+
 /// Lab -02 (08-02-2023)
 
 /// Exersize-01
