@@ -1,3 +1,7 @@
+/// S.H. Rafat
+/// Bangladesh Army University of Science and Technology(BAUST)
+/// Dept of CSE
+
 /// LAB- 01(25-01-2023)
 /// Line, Rectangle and Circle
 #include<stdio.h>
